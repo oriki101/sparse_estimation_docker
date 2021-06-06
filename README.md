@@ -1,4 +1,7 @@
 # sparse_estimation_docker
+![windows](https://img.shields.io/badge/buid_windows-pass-green.svg?style=flat)
+![Ubuntu](https://img.shields.io/badge/buid_ubuntu-pass-green.svg?style=flat)
+
 Joe先生のスパース推定100問のプログラムを実行するためのdockerイメージです。
 
 # Dependency
