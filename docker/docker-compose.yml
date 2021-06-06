@@ -1,0 +1,11 @@
+version: "3"
+services:
+  notebook:
+    image: statistical_analysis
+    ports:
+      - "8888:8888"
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+    volumes:
+      - ../src:/home/jovyan/work
+    command: start-notebook.sh --NotebookApp.token='' # http://localhost:8888
