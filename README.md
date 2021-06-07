@@ -5,8 +5,8 @@
 Joe先生のスパース推定100問のプログラムを実行するためのdockerイメージです。
 
 # Dependency
-- Docker for windows (Windowx環境で実行する場合)
-- Docker (Linuxで実行する場合)
+- [Docker for windows](https://docs.docker.com/docker-for-windows/install/) (Windowx環境で実行する場合)
+- [Docker](https://docs.docker.com/engine/install/) (Linuxで実行する場合)
 
 # Quick Start
 ## Windows
